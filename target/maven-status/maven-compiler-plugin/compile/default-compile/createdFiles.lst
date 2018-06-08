@@ -1,0 +1,7 @@
+model/Clouds.class
+model/City.class
+WeatherApiClientTest.class
+model/Wind.class
+web/WeatherServlet.class
+model/Main.class
+service/WeatherApiClient.class
